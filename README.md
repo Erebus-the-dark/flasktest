@@ -1,2 +1,0 @@
-# flasktest
-for learning flask
