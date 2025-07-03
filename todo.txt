@@ -1,0 +1,11 @@
+remove the un warranted packages from req.txt
+
+
+what to do everytime
+
+
+
+cd parking_app_24f3003640
+source venv/bin/activate
+#select python interpreter and paste this
+/workspaces/flasktest/parking_app_24f3003640/venv/bin/python
