@@ -1,9 +1,11 @@
 remove the un warranted packages from req.txt
 
+what does __name__ and __main__ mean?
+more about sqlaclehmy,blueprint
+whats "app" 
+
 
 what to do everytime
-
-
 
 cd parking_app_24f3003640
 source venv/bin/activate
